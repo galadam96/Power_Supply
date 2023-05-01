@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EG1218")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/footprints.pretty")(options "")(descr "Downloaded from Mouser"))
+)

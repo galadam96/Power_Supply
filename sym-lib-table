@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EG1218")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/symbol/2023-04-30_11-00-54.kicad_sym")(options "")(descr "Downloaded from DigiKey UltraLibrarian"))
+)
